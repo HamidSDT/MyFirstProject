@@ -1,0 +1,21 @@
+ logical operators : is used to combine multiple  conditions .they only work with boolean values . (true,false) values
+
+ 1) !   -----> means NOt
+ 2) || ------> means Or
+ 3) && ------> means And
+
+ why we use them?
+
+ 1) they can greatly simplify the logic
+ 2) it helps us reduce the lines of code that we have to wright.
+
+ ! (Not) :  this operator is used to change the value if true i t changes it to false or if the value is false it changes it to true
+  ex system.out.println(!true) result is = false
+
+
+  2) Logical operator (||): Or
+
+  it combines two or more conditions and returns true as long as there is one true condition, if all the conditions are falls
+  it will return false
+
+  3 logical And &&: it also combine tow or more conditions it only returns true if all the conditions are true.

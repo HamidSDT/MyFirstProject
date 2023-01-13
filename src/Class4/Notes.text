@@ -1,0 +1,61 @@
+
+
+operators:
+operators are different symbols that we cab use to perform operations like addition ,subtraction, we can compare things if tow entities are sam or not ,if a number is greater than other or not
+there are tre main types are operators
+1: Arithmetic operators
+2: relational operators
+3:logical operators
+
+
+Arithmetic operators:
+we use Asthmatic operators to do simple math operations . like addition, subtraction. etc
++---> addition
+-  => subtraction
+/ => division
+* => multiplication
+% => modulus , reminders
+
+Relational Operators:
+relational; operators are used to compare tow entities . for example if something is bigger then other thing or if tow numbers are same or not
+or tow boolean variable contain the same values or not
+
+==  --> used to check if tow variable contain the same value or not , if same we get true otherwise we het false.
+!=  --> to check if tow variables are not equal , or don't contain the same value, we get true if they are not same.
+>  -->   is used to check if one value is greater or not. if greater we get true. <
+<  --> this is used to check one value is less then other value
+>=  --> is used to check if one value is greater or equal to the the other one. (here we check tow conditions) either greater or equal.
+<=  -->  is used to check if one value is less or equal to another one .
+
+
+conditional constructs:
+
+used to write conditional code. a piece of code that execute base on condition if condition is true that java execute the code otherwise it skips that code.
+how to write IfElse condition.
+
+if(condition){
+any line of code can be written in this line , between these tow curly brackets .
+}
+
+if (condition){
+
+  if i have to test the same variable for multipart conditions we use if else if condition.
+
+  if we have multipart conditions and these conditions are dependent on each other we use Nested if conditions , like we can use multipart different data types here
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

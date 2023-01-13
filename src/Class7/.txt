@@ -1,0 +1,13 @@
+while loop:
+they help us repeat code .
+
+why should we use while loops :
+because manually copy and pasting is very bad, and it is not scalable .
+also reducing the number of codes that need to be written .
+
+Syntax while loop:
+
+while(condition ){
+code that we want to repeat
+increment/decrement. ++ or --
+}

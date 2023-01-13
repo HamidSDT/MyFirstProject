@@ -1,0 +1,27 @@
+package Class6;
+
+public class WhileLopp7 {
+    public static void main(String[] args) {
+
+        int number = 0;
+        while (number<10){
+
+            if (number%2==0){
+                System.out.println("even number is: "+number);
+            }
+
+            number++;
+        }
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
